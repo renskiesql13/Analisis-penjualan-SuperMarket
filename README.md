@@ -9,7 +9,7 @@ Proyek ini merupakan analisis data eksploratif (EDA) terhadap dataset historis p
 Salah satu pertanyaan utama dalam analisis ini adalah: **"Lini produk manakah yang menghasilkan pendapatan tertinggi?"**
 
 ### Visualisasi Kunci
-*[https://i.imgur.com/xbaC1mv.png]*
+![Total Penjualan per Lini Produk](https://i.imgur.com/xbaC1mv.png)
 
 ### Wawasan (Insight)
 Analisis menunjukkan bahwa kategori **"Food and beverages"** dan **"Sports and travel"** menjadi dua penyumbang pendapatan terbesar secara konsisten. Temuan ini dapat menjadi dasar bagi manajemen untuk menyusun strategi stok barang dan promosi yang lebih terfokus pada kategori-kategori unggulan ini guna memaksimalkan pendapatan.
@@ -32,4 +32,4 @@ Analisis menunjukkan bahwa kategori **"Food and beverages"** dan **"Sports and t
 ## Proses Belajar & Acknowledgment
 Proyek ini merupakan bagian penting dari perjalanan belajar saya di bidang analisis data. Dalam proses pengerjaannya, saya juga dibantu oleh AI assistant (Google Gemini) untuk *debugging*, pemahaman konsep-konsep baru, dan mempelajari *best practice* dalam penulisan kode serta analisis.
 
-Dibuat oleh **[Nama Anda]**.
+Dibuat oleh **[Clive Moren as Renskiee]**.
